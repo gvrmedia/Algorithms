@@ -1,0 +1,39 @@
+                                                 Algorithms
+Positive or Negative number
+Even or Odd number
+Sum of First N Natural numbers
+Sum of N natural numbers
+Sum of numbers in a given range
+Greatest of two numbers
+Greatest of the Three numbers
+Leap year or not 
+prime number
+Prime number within a giben range
+Sum of digits of a number
+Reverse of a number
+Palindrome number
+Armstrong number
+Armstrong number in a given range
+Fibonacci Series upto nth term
+Factorial of a number
+Power of a number
+Factor of a number
+Strong number
+Perfect number
+Automorphic number
+Harshad number
+Highest common factor(HCF)
+Lowest common Multiple(LCM)
+Greatest common Divisor(GCD)
+Binary to Decimal
+Binary to Octal
+Decimal to Binary
+Quadrants in which a given coordinate lies
+Addition of two fractions
+Replace all 0's with 1 
+Count possible decoding of a given digit sequence
+Check whether a character is a alphabet or not
+Number of days in a given month of a given year
+Number of integers which has exactly x divisors
+Roots of a quadratic equation
+Reverse elements of an array
